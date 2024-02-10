@@ -1,0 +1,62 @@
+export  const contexttext = {
+  "Graphics Design": {
+    title: [
+      "Graphics",
+      "Branding & Identity",
+      "Print Design",
+      "Illustration",
+      "Website Graphics",
+    ],
+    image: [
+      [
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+      ],
+      [
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+      ],
+      [
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+      ],
+      [
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+      ],
+      [
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+        "/design/img3.jpg",
+      ],
+    ],
+    summary: [
+      "Welcome to the forefront of digital aesthetics!",
+      " Our website design services seamlessly",
+      "blend creativity with ",
+      "functionality to craft visually stunning and user-friendly digital experiences.",
+      "Elevate your online presence with our experiences",
+    ],
+  },
+};

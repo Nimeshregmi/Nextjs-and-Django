@@ -1,0 +1,39 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Dependencies
+/bipincreates/node_modules
+/bipincreates/.pnp
+/bipincreates/pnp.js
+/bipincreates/yarn/install-state.gz
+
+# Testing
+/bipincreates/coverage
+
+# Next.js
+/bipincreates/.next/
+/bipincreates/out/
+
+# Production
+/bipincreates/build
+
+# Miscellaneous
+/bipincreates/.DS_Store
+/bipincreates/*.pem
+
+# Debug
+/bipincreates/npm-debug.log*
+/bipincreates/yarn-debug.log*
+/bipincreates/yarn-error.log*
+
+# Local environment files
+/bipincreates/.env*.local
+
+# Vercel
+/bipincreates/.vercel
+
+# TypeScript
+/bipincreates/*.tsbuildinfo
+/bipincreates/next-env.d.ts
+
+# Django Virtual Environment
+/virtual
